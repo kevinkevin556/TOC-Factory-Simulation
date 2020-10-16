@@ -19,7 +19,14 @@
 pip install -r requirements.txt
 ```
 
-將工作目錄設為此 repo 的資料夾(包含`toc.py`)，就可以開始使用了。
+或者手動安裝需要的套件：
+
+```Console
+pip install plotly
+pip install pandas
+```
+
+最後將工作目錄設為此 repo 的資料夾(包含`toc.py`)，就可以開始使用了。
 
 ## 範例程式
 
