@@ -1,6 +1,10 @@
 # TOC-Factory-Simualtion
 
-基於制約理論的工廠生產模擬。
+基於制約理論的工廠生產模擬，這個簡單的專案由 Python 實作而成。
+專案包含二個檔案：
+
+* toc.py: 主要程式 (內含：機器、工廠、模擬類別)
+* factory_simulation.ipynb: 作業管理 Self-Study Assignment #A 題目與生產模擬結果 
 
 ## 安裝
 
@@ -27,3 +31,8 @@ sim.visualize()                                   # 呈現模擬結果
 print(mean(sim.output))                           # 模擬 50 次平均總產出
 print(mean(sim.wip))                              # 模擬 50 次平均產線上存貨
 ```
+
+## 參考連結
+1. [NTU 109-1 商研所 作業管理](http://guo.ba.ntu.edu.tw/f4.htm)
+2. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
+3. [Goldratt Marketing: Theory of Constraints](https://www.toc-goldratt.com/en)
