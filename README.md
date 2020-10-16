@@ -2,7 +2,6 @@
 
 這個簡單的專案透過 Python 實作基於制約理論的工廠生產模擬, 並提供模擬結果的視覺呈現。
 
-
 其中主要檔案有：
 
 * `toc.py`: 主要程式 (內含：機器、工廠、模擬類別)
@@ -38,6 +37,11 @@ print(mean(sim.wip))                              # 模擬 50 次平均產線上
 ```
 
 ## 參考連結
+
 1. [NTU 109-1 商研所 作業管理](http://guo.ba.ntu.edu.tw/f4.htm)
 2. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
 3. [Goldratt Marketing: Theory of Constraints](https://www.toc-goldratt.com/en)
+
+## 開源協議
+
+[MIT](https://opensource.org/licenses/MIT) © Kevin Hong
