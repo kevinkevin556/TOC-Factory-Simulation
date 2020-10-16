@@ -5,7 +5,7 @@
 其中主要檔案有：
 
 * `toc.py`: 主要程式 (內含：機器、工廠、模擬類別)
-* `factory_simulation.ipynb`: 作業管理 Self-Study Assignment #A 題目與生產模擬結果 
+* [`factory_simulation.ipynb`](https://nbviewer.jupyter.org/github/kevinkevin556/TOC-Factory-Simulation/blob/main/factory_simulation.ipynb): 作業管理 Self-Study Assignment #A 題目與生產模擬結果 
 
 
 ![Simulation_demo](https://i.imgur.com/hD5shyW.gif)
