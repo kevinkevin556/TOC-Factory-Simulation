@@ -1,4 +1,4 @@
-# TOC-Factory-Simualtion
+# TOC-Factory-Simulation
 
 這個簡單的專案透過 Python 實作基於制約理論的工廠生產模擬, 並提供模擬結果的視覺呈現。
 
