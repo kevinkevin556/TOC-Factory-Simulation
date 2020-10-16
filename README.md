@@ -9,7 +9,7 @@
 * `factory_simulation.ipynb`: 作業管理 Self-Study Assignment #A 題目與生產模擬結果 
 
 
-![Simulation_demo](https://imgur.com/hD5shyW)
+![Simulation_demo](https://i.imgur.com/hD5shyW.gif)
 
 ## 安裝
 
