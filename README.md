@@ -1,10 +1,15 @@
 # TOC-Factory-Simualtion
 
-這個簡單的專案透過 Python 實作基於制約理論的工廠生產模擬。
+這個簡單的專案透過 Python 實作基於制約理論的工廠生產模擬, 並提供模擬結果的視覺呈現。
+
+
 其中主要檔案有：
 
 * `toc.py`: 主要程式 (內含：機器、工廠、模擬類別)
 * `factory_simulation.ipynb`: 作業管理 Self-Study Assignment #A 題目與生產模擬結果 
+
+
+![Simulation_demo]()
 
 ## 安裝
 
